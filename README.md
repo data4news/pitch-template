@@ -8,7 +8,7 @@ Drop a link to your pitch google doc here in the README.
 
 
 # Jupyter Notebooks
-Please submit a coherent, readable notebook (see `analysis.ipynb`) that walks Dhrumil and Aishi through the exploratory data analysis  and regression analysis you've done in pursuit of your story.
+Please submit a coherent, readable notebook (see `analysis.ipynb`) that walks Dhrumil and Aishi through the exploratory data analysis and regression analysis you've done in pursuit of your story.
 
 This notebook should be clean and focused:
 
