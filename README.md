@@ -1,13 +1,11 @@
 # pitch-template
 
-Make a copy of this google doc and write your pitch there. 
+Make a copy of [this google doc](https://docs.google.com/document/d/1M-Zxv3FyPmsMA5thlfoyq4xTUGpHMpY-kNE5USKSak4/edit) and write your pitch there. 
 
-Drop a link to that copy here.
-https://docs.google.com/document/d/1M-Zxv3FyPmsMA5thlfoyq4xTUGpHMpY-kNE5USKSak4/edit
+## Link to pitch
+Drop a link to pitch google doc here.
 
-
-# Jupyter Notebooks
-
+## Jupyter Notebooks
 Please submit a coherent, readable notebook (see `analysis.ipynb`) that walks Dhrumil and Aishi through the exploratory data analysis  and regression analysis you've done in pursuit of your story.
 
 This notebook should be clean and focused:
