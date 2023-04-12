@@ -12,4 +12,4 @@ This notebook should be clean and focused:
 
 - move any code for data acquisition or scraping into it's own notebook with a name like `scraping.ipynb`
 - move any code for data cleaning and maniupualtion into it's own notebook with a name like `cleaning.ipynb`
-- add text to guide a reader through this notebook, you may want to use [markdown formatting](https://www.markdownguide.org/cheat-sheet/) to help organize your thoguhts.
+- add text to guide a reader through your analysis notebook, you may want to use [markdown formatting](https://www.markdownguide.org/cheat-sheet/) to help organize your thoguhts.
